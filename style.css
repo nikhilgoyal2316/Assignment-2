@@ -1,0 +1,39 @@
+
+.para{ 
+     color:aqua;
+    background-color:rgb(51, 5, 51);
+    border: 3px solid yellow;
+    padding: 9px;
+    margin: 40px;
+    text-align: center;
+     }
+     body{
+       
+        background-image:url(./coffee.jpg)
+        
+    }
+    a{
+        color:black;
+    }
+    a:visited{
+        color:pink;
+    }
+    a:hover{
+        color:yellow;
+    }
+    .i{
+        color:white;
+        
+    
+    }
+    .j{
+        color:white;
+        
+    
+    }
+    h1{
+        background-color:rgb(167, 150, 150);
+    }
+
+
+    
